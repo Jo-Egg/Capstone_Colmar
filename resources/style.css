@@ -1,0 +1,33 @@
+header {
+  display: flex;
+  height: 64px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 24px;
+  text-align: center;
+  wrap: nowrap;
+
+}
+
+body {
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+.colmar {
+  font-weight: bolder;
+}
+
+.academy {
+  color: grey;
+}
+
+.logotext {
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.navigation {
+  padding-right: 16px;
+}
